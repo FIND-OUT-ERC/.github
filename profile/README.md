@@ -1,5 +1,4 @@
-# FIND-OUT
-## Federated and distributed inference leveraging sensing and communication in the computing continuum
+# FIND-OUT - Federated and distributed inference leveraging sensing and communication in the computing continuum
 
 The purpose of this project is the development of a pioneering framework to guide the design of federated and distributed inference systems, leveraging sensing and communication and harnessing the computing continuum. 
 
